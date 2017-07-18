@@ -1,0 +1,18 @@
+[
+	{
+		"keys": ["ctrl+b"],
+		"command": "side_bar_files_open_with",
+		"args": {
+			"application": "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe"
+		}
+	},
+	{
+        "keys": ["ctrl+shift+r"],
+        "command": "side_bar_open_in_browser",
+        "args": {
+                    "paths": [],
+                    "type": "testing",
+                    "browser": "chrome"
+                }
+    }
+]

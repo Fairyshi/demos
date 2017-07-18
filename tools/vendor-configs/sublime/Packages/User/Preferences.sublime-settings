@@ -1,0 +1,48 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"color_scheme": "Packages/User/SublimeLinter/Solarized (Light) (SL).tmTheme",
+	"file_exclude_patterns":
+	[
+		"*.DS_Store",
+		"*.sublime-workspace",
+		"*.scssc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		"tmp/cache",
+		"vagrant",
+		".hg",
+		"CVS"
+	],
+	"font_size": 16,
+	"ignored_packages":
+	[
+		"BracketHighlighter",
+		"JavaScript & NodeJS Snippets",
+		"Vintage"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"translate_tabs_to_spaces": true
+}

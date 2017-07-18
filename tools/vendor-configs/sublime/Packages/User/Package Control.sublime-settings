@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"BracketHighlighter",
+		"JavaScript & NodeJS Snippets"
+	],
+	"installed_packages":
+	[
+		"3024 Color Scheme",
+		"42 Headers",
+		"AdvancedNewFile",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Clipboard Manager",
+		"ColorPicker",
+		"CSScomb",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Http Requester",
+		"JavaScript & NodeJS Snippets",
+		"JavaScript Snippets",
+		"JsFormat",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"SideBarFolders",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SyncedSideBar",
+		"Terminal",
+		"TrailingSpaces",
+		"View In Browser"
+	]
+}
